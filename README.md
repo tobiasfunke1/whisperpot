@@ -38,7 +38,7 @@ primarily built using Python and deployed on Linux-based operating systems.
 1. **Clone the Repository**
 
 ```
-git clone https://github.com/honeynet/whisperpot
+git clone --recurse-submodules https://github.com/honeynet/whisperpot
 ```
 
 Navigate to the cloned directory:
